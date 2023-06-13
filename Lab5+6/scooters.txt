@@ -1,0 +1,3 @@
+LAP, 23, bolt, 23/05/2003, Piata Mihai Vitezul, reserviert
+Lua, 24, dott, 30/07/2024, Decebal 100, reserviert
+spl, 28, dott, 06/02/2021, Fabricii, reserviert
