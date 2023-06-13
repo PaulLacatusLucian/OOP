@@ -1,0 +1,71 @@
+Lenkrad 0 Lenkrad
+Lenkrad 0 Motor
+Lenkrad 2 Bremsen
+Lenkrad 0 Gaspedal
+Lenkrad 2 Kupplung
+Lenkrad 5 Räder
+Lenkrad 3 Kabine
+Lenkrad 0 Scheinwerfer
+
+Motor 0 Lenkrad
+Motor 0 Motor
+Motor 4 Bremsen
+Motor 5 Gaspedal
+Motor 4 Kupplung
+Motor 3 Räder
+Motor 0 Kabine
+Motor 0 Scheinwerfer
+
+Bremsen 2 Lenkrad
+Bremsen 4 Motor
+Bremsen 0 Bremsen
+Bremsen 5 Gaspedal
+Bremsen 4 Kupplung
+Bremsen 3 Räder
+Bremsen 0 Kabine
+Bremsen 0 Scheinwerfer
+
+Gaspedal 0 Lenkrad
+Gaspedal 5 Motor
+Gaspedal 5 Bremsen
+Gaspedal 0 Gaspedal
+Gaspedal 5 Kupplung
+Gaspedal 5 Räder
+Gaspedal 1 Kabine
+Gaspedal 0 Scheinwerfer
+
+Kupplung 2 Lenkrad
+Kupplung 4 Motor
+Kupplung 4 Bremsen
+Kupplung 5 Gaspedal
+Kupplung 0 Kupplung
+Kupplung 5 Räder
+Kupplung 0 Kabine
+Kupplung 0 Scheinwerfer
+
+Räder 5 Lenkrad
+Räder 3 Motor
+Räder 3 Bremsen
+Räder 5 Gaspedal
+Räder 5 Kupplung
+Räder 0 Räder
+Räder 3 Kabine
+Räder 0 Scheinwerfer
+
+Kabine 3 Lenkrad
+Kabine 0 Motor
+Kabine 0 Bremsen
+Kabine 1 Gaspedal
+Kabine 0 Kupplung
+Kabine 3 Räder
+Kabine 0 Kabine
+Kabine 0 Scheinwerfer
+
+Scheinwerfer 0 Lenkrad
+Scheinwerfer 0 Motor
+Scheinwerfer 0 Bremsen
+Scheinwerfer 0 Gaspedal
+Scheinwerfer 0 Kupplung
+Scheinwerfer 0 Räder
+Scheinwerfer 0 Kabine
+Scheinwerfer 0 Scheinwerfer

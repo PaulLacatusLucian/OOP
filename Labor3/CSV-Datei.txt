@@ -1,0 +1,23 @@
+Vater 10 Mutter
+Vater 4 Tante
+Vater 8 Oma
+Vater 10 Sohn
+Mutter 10 Vater
+Mutter 10 Sohn
+Mutter 7 Tante
+Mutter 6 Oma
+
+Sohn 9 Oma
+Sohn 7 Tante
+Sohn 10 Mutter
+Sohn 10 Vater
+
+Tante 4 Vater
+Tante 6 Mutter
+Tante 8 Oma
+Tante 9 Sohn
+
+Oma 10 Mutter
+Oma 5 Vater
+Oma 4 Tante
+Oma 10 Sohn
