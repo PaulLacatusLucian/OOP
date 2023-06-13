@@ -1,0 +1,2 @@
+echo off
+g++ -o run.exe shop.cpp Product/Product.cpp Repository/Repo.cpp Controller/ShopController.cpp UI/ShopUI.cpp
