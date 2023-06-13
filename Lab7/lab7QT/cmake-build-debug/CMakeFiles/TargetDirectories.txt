@@ -1,5 +1,0 @@
-C:/Users/Paul/CLionProjects/oop/lab7QT/cmake-build-debug/CMakeFiles/lab5.dir
-C:/Users/Paul/CLionProjects/oop/lab7QT/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Paul/CLionProjects/oop/lab7QT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/Paul/CLionProjects/oop/lab7QT/cmake-build-debug/CMakeFiles/lab5_autogen_timestamp_deps.dir
-C:/Users/Paul/CLionProjects/oop/lab7QT/cmake-build-debug/CMakeFiles/lab5_autogen.dir
